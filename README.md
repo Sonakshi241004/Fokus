@@ -84,6 +84,7 @@ Fokuss/
 
 ![Navigation Bar](./assets/images/navbar.png)  
 ![To-Do List](./assets/images/todo.png)  
+https://github.com/user-attachments/assets/4dde8df0-5e5b-4473-97eb-f13508094226
 ![Pomodoro Timer](./assets/images/pomodoro.png)  
 ![Mind Maps](./assets/images/mindmap.png)  
 ![FlashCards](./assets/images/flashcards.png)  
