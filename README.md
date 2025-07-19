@@ -82,13 +82,11 @@ Fokuss/
 
 (Add your actual images to the assets/images folder and link them like below)
 
-![Navigation Bar](./assets/images/navbar.png)  
+
 
 https://github.com/user-attachments/assets/4dde8df0-5e5b-4473-97eb-f13508094226
 https://github.com/user-attachments/assets/85444acc-16f7-4704-ad36-d5ab1eb50e4d
-![Mind Maps](./assets/images/mindmap.png)  
-![FlashCards](./assets/images/flashcards.png)  
-![Study Music Player](./assets/images/music.png)
+
 
 ---
 
