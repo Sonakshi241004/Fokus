@@ -48,22 +48,6 @@ Fokuss is a modern productivity platform tailored for students. It provides esse
 
 ---
 
-📂 Folder Structure
-
-Fokuss/
-├── index.html  
-├── css/  
-│   └── style.css  
-├── js/  
-│   ├── todo.js  
-│   ├── pomodoro.js  
-│   ├── mindmap.js  
-│   ├── flashcards.js  
-│   └── music.js  
-└── assets/  
-    └── images/
-
----
 
 🚀 Getting Started
 
@@ -80,18 +64,31 @@ Fokuss/
 
 📸 Screenshots
 
-(Add your actual images to the assets/images folder and link them like below)
 
+  🏠 Home
 <img width="1919" height="907" alt="Image" src="https://github.com/user-attachments/assets/b66af41d-da82-4e7c-99b2-cfb9f93d57ec" />
+  ✅ To-Do List
+<img width="1903" height="913" alt="Image" src="https://github.com/user-attachments/assets/20de04b1-dac8-48ed-8337-56c19bc12cda" />
+  ⏱️ Pomodoro Timer
+<img width="1913" height="909" alt="Image" src="https://github.com/user-attachments/assets/e2d87ee8-61f9-44cc-8950-bb78b8f72f13" />
+  🧾 FlashCards
+<img width="1919" height="912" alt="Image" src="https://github.com/user-attachments/assets/0fffadaa-6465-4544-aaee-f7391fe85b5e" />
 
-https://github.com/user-attachments/assets/4dde8df0-5e5b-4473-97eb-f13508094226
-https://github.com/user-attachments/assets/85444acc-16f7-4704-ad36-d5ab1eb50e4d
+<img width="1919" height="911" alt="Image" src="https://github.com/user-attachments/assets/eef710f7-676b-4e23-b6e0-0ce577e60433" />
+ 🧠 Mind Maps
+<img width="1919" height="909" alt="Image" src="https://github.com/user-attachments/assets/a63eeb6a-427d-4c0d-a436-41a3c67c1926" />
+  🎵 Study Music
+<img width="1919" height="915" alt="Image" src="https://github.com/user-attachments/assets/9d7eb9dc-0658-4430-87c7-07531a809d8e" />
+
+
+ 
+
 
 
 ---
 
 🔗 GitHub Repository  
-https://github.com/Sonakshi241004/Fokuss
+https://github.com/Sonakshi241004/Fokus
 
 ---
 
