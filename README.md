@@ -1,66 +1,50 @@
-🎯 Fokuss | Productivity Web App
+# 🎯 Fokus | Productivity Web App
 
-Fokuss is a modern productivity platform tailored for students. It provides essential tools like Pomodoro Timer, To-Do Lists, FlashCards, Mind Maps, and even integrated Study Music to help you stay focused and organized during your learning sessions.
-
----
-
-✨ Features
-
-  🏠 Home
-    - Central dashboard with access to all productivity tools
-
-  ✅ To-Do List
-    - Add, edit, delete, and prioritize daily tasks
-    - Mark tasks as complete with a clean UI
-
-  ⏱️ Pomodoro Timer
-    - Based on the Pomodoro Technique
-- Adjustable focus and break intervals
-- Audio alerts for session transitions
-
-🧠 Mind Maps
-- Visual organization of thoughts and ideas
-- Drag-and-drop nodes with connection lines
-
-🧾 FlashCards
-- Create and review custom flashcards
-- Helps with quick memorization and active recall
-
-🎵 Study Music
-- Built-in focus music player
-- Lo-fi and ambient options to enhance concentration
+**Fokus** is a modern productivity platform tailored for students and self-learners. It integrates essential tools like a Pomodoro Timer, To-Do List, FlashCards, Mind Maps, and Study Music — all in one lightweight, distraction-free interface. Whether you're preparing for exams, learning a new skill, or just trying to manage your study time better, **Fokus** helps you stay organized and focused.
 
 ---
 
-📈 Highlights
+## ✨ Features
 
-- ⚡ Improved session engagement and productivity by 30%
-- 💻 Designed with responsive layout using HTML5, CSS3, and JavaScript
-- 🎯 Built without external libraries to remain lightweight and fast
+### 🏠 Home  
+- Central dashboard providing easy access to all tools
+
+### ✅ To-Do List  
+- Add, edit, delete, and prioritize daily tasks  
+- Mark tasks as complete with a clean, intuitive interface
+
+### ⏱️ Pomodoro Timer  
+- Based on the Pomodoro Technique  
+- Adjustable focus and break intervals  
+
+### 🧠 Mind Maps  
+- Visually organize your thoughts, topics, or plans  
+- Drag-and-drop node creation and dynamic connections
+
+### 🧾 FlashCards  
+- Create, edit, and review custom flashcards  
+- Supports active recall and quick revision
+
+### 🎵 Study Music  
+- Built-in lo-fi and ambient music player  
+- Enhances concentration and reduces distractions
+
+---
+
+## 📈 Project Highlights
+
+- ⚡ Improved user productivity and engagement by **30%**
+- 💻 Built with **HTML5**, **CSS3**, and **JavaScript**
+- 🪶 Lightweight, fast, and fully client-side — no external libraries
 
 ---
 
 ## 🧰 Tech Stack
 
-- Frontend: HTML5, CSS3, JavaScript (ES6)
-- No backend or database required
-- Pure client-side application
+- **Frontend:** HTML5, CSS3, JavaScript (ES6)  
+- **Backend:** Not required — 100% client-side  
+- **Dependencies:** None
 
----
-
-
-🚀 Getting Started
-
-1. Clone the Repository
-
-   git clone https://github.com/Sonakshi241004/Fokuss.git  
-   cd Fokuss
-
-2. Run Locally
-
-   Just open the index.html file in any browser — no installation needed.
-
----
 
 ---
 
@@ -100,17 +84,17 @@ Fokuss is a modern productivity platform tailored for students. It provides esse
   <img width="800" alt="Study Music" src="https://github.com/user-attachments/assets/9d7eb9dc-0658-4430-87c7-07531a809d8e" />
 </div>
 
----
-
-🔗 GitHub Repository  
-https://github.com/Sonakshi241004/Fokus
 
 ---
 
-📄 License  
-This project is licensed under the MIT License.
+## 🚀 Getting Started
 
-> "Stay focused. Be productive. Fokuss on what matters."
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Sonakshi241004/Fokus.git
+cd Fokus
+
 
 
 
