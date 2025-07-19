@@ -82,7 +82,7 @@ Fokuss/
 
 (Add your actual images to the assets/images folder and link them like below)
 
-
+<img width="1919" height="907" alt="Image" src="https://github.com/user-attachments/assets/b66af41d-da82-4e7c-99b2-cfb9f93d57ec" />
 
 https://github.com/user-attachments/assets/4dde8df0-5e5b-4473-97eb-f13508094226
 https://github.com/user-attachments/assets/85444acc-16f7-4704-ad36-d5ab1eb50e4d
